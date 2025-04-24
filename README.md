@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to get my head around AI and Visual Code
 - 📫 How to reach me here on GitHub
 - 😄 Pronouns: me / i / does it really matter??
-- ⚡ Fun fact: The world is not flat
+- ⚡ Fun fact: The world is not flat especially at the edge
 
 <!---
 WDrunner/WDrunner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
